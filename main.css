@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #7FC1CA;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #3C4C55;
+    color: #899BA6;
+}
+
+.container {
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.centered {
+    text-align: center;
+}
+
+hr {
+    color: #899BA6;
+    background-color: #899BA6;
+    border: 0;
+    width: 100%;
+    text-align: center;
+    height: 1px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+td {
+    width: 33vw;
+}
+
+a:link {
+    color: #7FC1CA;
+}
+
+a:visited {
+    color: #d18ec2;
+}
+
+a:hover {
+    color: #7FC1CA;
+}
+
+a:active {
+    color: #7FC1CA;
+}
