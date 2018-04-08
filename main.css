@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Fira Sans Condensed', sans-serif;
-    color: #7FC1CA;
+    color: #f1c40f;
     text-align: center;
     margin-bottom: 0;
     margin-top: 0;
@@ -8,8 +8,8 @@ h1 {
 
 body {
     font-family: 'Inconsolata', monospace;
-    background-color: #3C4C55;
-    color: #899BA6;
+    background-color: #ecf0f1;
+    color: #2c3e50;
 }
 
 .container {
@@ -22,8 +22,8 @@ body {
 }
 
 hr {
-    color: #899BA6;
-    background-color: #899BA6;
+    color: #2c3e50;
+    background-color: #ecf0f1;
     border: 0;
     width: 100%;
     text-align: center;
@@ -40,17 +40,17 @@ td {
 }
 
 a:link {
-    color: #7FC1CA;
+    color: #0a74b9;
 }
 
 a:visited {
-    color: #d18ec2;
+    color: #8e44ad;
 }
 
 a:hover {
-    color: #7FC1CA;
+    color: #0a74b9;
 }
 
 a:active {
-    color: #7FC1CA;
+    color: #d98c10;
 }
