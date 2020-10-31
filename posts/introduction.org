@@ -1,0 +1,68 @@
+#+title: Introduction 
+#+date: <2020-10-31 Sat>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+To all who are reading this post,
+
+Hello! My name is Jacob Salzberg. It is a pleasure to be writing to you.
+
+#+Caption: My Mug
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/professional.jpg]]
+
+I am a senior at NCSU. I've studied nearly three and a half years here,
+blazing my way through the first semester, eeking my way through physics,
+crying many tears of frustration for computer science projects and many tears of joy
+for my friends. I've TA'd, done undergraduate research, worked odd jobs,
+and worked late nights.
+
+#+Caption: Glazed Brioche Doughnuts in a Bag
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/doughnuts.jpg]]
+
+In these times, when I'm not working on graduate applications or schoolwork,
+I bake bread and try vegetarian recipes. Lately I've been having a lot of fun with
+brioche -- trying to make it whole wheat, making doughnuts out of the dough, and trying
+to find how to get it fluffy in the center and crusty on the outside.
+I've been frying things a lot, making samosas, fried tofu, and fried onions.
+
+#+Caption: The Cool Kids You Wish You Knew
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/biggame.jpg]]
+
+However, before I was locked in by COVID, life used to be much different.
+My life used to be a chaotic, electrifying mix of school and friendships.
+I lost count of the times that I left the Library or Daniels Hall in the middle of the night
+because my friends were studying for an exam that was far off.
+I woke up every day excited, because I knew that me and my friends were going to
+study until we knew every last bit of the material for our classes,
+and then hang out until we had to go to bed.
+
+To all my friends,
+
+I hope you enjoy this little collection of photos :)
+
+#+Caption: Dining In At A Campsite
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/friends.jpg]]
+
+
+#+Caption: Darkness Envelops My Fellow Campers
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/darkness.jpg]]
+
+
+#+Caption: Feels Like Yesterday
+#+ATTR_HTML: :border 0 :rules centered
+[[../photos/yesterday.jpg]]
+
+And now that we've gotten acquainted, I hope you'll stick around to see new blog posts!
+Will update weekly.
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
