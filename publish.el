@@ -44,4 +44,10 @@
          :publishing-directory "docs/css"
          :publishing-function org-publish-attachment
          :recursive t)
-         ("all" :components ("posts" "css"))))
+        ("photos"
+         :base-directory "photos/"
+         :base-extension "photos"
+         :publishing-directory "docs/photos"
+         :publishing-function org-publish-attachment
+         :recursive t)
+         ("all" :components ("posts" "css" "photos"))))

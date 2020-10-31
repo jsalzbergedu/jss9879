@@ -15,10 +15,10 @@ I am starting a blog here to talk about cooking, baking, programming, and studen
 Before you see my blog posts, you may want to view my three picture introduction:
 
 #+ATTR_HTML: :border 0 :rules none
-|----------------------------+----------------------------------------|
-| [[../photos/meandfriends.jpg]] | Me (center left) and some friends      |
-| [[../photos/ncsu.png]]         | The source of all my joy and suffering |
-| [[../photos/doggo.jpg]]        | My Dog, Brownie                        |
+|---------------------------+----------------------------------------|
+| [[./photos/meandfriends.jpg]] | Me (center left) and some friends      |
+| [[./photos/ncsu.png]]         | The source of all my joy and suffering |
+| [[./photos/doggo.jpg]]        | My Dog, Brownie                        |
 
 #+INCLUDE: postlist.org :lines "4-" :only-contents t
 

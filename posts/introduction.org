@@ -10,7 +10,7 @@ Hello! My name is Jacob Salzberg. It is a pleasure to be writing to you.
 
 #+Caption: My Mug
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/professional.jpg]]
+[[./photos/professional.jpg]]
 
 I am a senior at NCSU. I've studied nearly three and a half years here,
 blazing my way through the first semester, eeking my way through physics,
@@ -20,7 +20,7 @@ and worked late nights.
 
 #+Caption: Glazed Brioche Doughnuts in a Bag
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/doughnuts.jpg]]
+[[./photos/doughnuts.jpg]]
 
 In these times, when I'm not working on graduate applications or schoolwork,
 I bake bread and try vegetarian recipes. Lately I've been having a lot of fun with
@@ -30,7 +30,7 @@ I've been frying things a lot, making samosas, fried tofu, and fried onions.
 
 #+Caption: The Cool Kids You Wish You Knew
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/biggame.jpg]]
+[[./photos/biggame.jpg]]
 
 However, before I was locked in by COVID, life used to be much different.
 My life used to be a chaotic, electrifying mix of school and friendships.
@@ -46,17 +46,17 @@ I hope you enjoy this little collection of photos :)
 
 #+Caption: Dining In At A Campsite
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/friends.jpg]]
+[[./photos/friends.jpg]]
 
 
 #+Caption: Darkness Envelops My Fellow Campers
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/darkness.jpg]]
+[[./photos/darkness.jpg]]
 
 
 #+Caption: Feels Like Yesterday
 #+ATTR_HTML: :border 0 :rules centered
-[[../photos/yesterday.jpg]]
+[[./photos/yesterday.jpg]]
 
 And now that we've gotten acquainted, I hope you'll stick around to see new blog posts!
 Will update weekly.
