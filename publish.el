@@ -46,7 +46,7 @@
          :recursive t)
         ("photos"
          :base-directory "photos/"
-         :base-extension "photos"
+         :base-extension "png\\|jpg"
          :publishing-directory "docs/photos"
          :publishing-function org-publish-attachment
          :recursive t)
