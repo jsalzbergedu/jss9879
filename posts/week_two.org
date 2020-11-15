@@ -1,0 +1,33 @@
+#+title: Week Two
+#+date: <2020-11-07 Sat>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+[[./photos/bread.jpg]]
+
+Hello everyone! So glad you could join me for another blog post.
+This is my last week before exams, so it was a bit crazy.. But I still found time to bake a cheesecake and make some more bread!
+
+I would upload a picture of that dough baked into bread.. if I hadn't already eaten all of it. Brioche just makes too good of a breakfast to last.
+
+[[./photos/samosas.jpg]]
+
+I also got a chance to make baked samosas. I had made fried samosas a few weeks ago, and they were excellent -- but the process to make them
+was unhealthy and dangerous, considering that it took a lot of corn oil at a high heat. While these baked samosas were much quicker to make,
+requiring no time to heat up oil in a dutch oven,
+
+[[./photos/thick.jpg]]
+
+they turned out far too thick, because the dough didn't puff like it does in the frying oil. I think if I were to try to make these again,
+I would have to roll the dough thinner, and perhaps cook at a higher heat.
+
+Outside of food, my life has mostly consisted of applying for graduate school and of working on my final projects for my classes.
+This upcoming week, I will finally get the chance to work on my project for discrete mathematical modelling, which I am excited to talk about on my blog!
+I will be making a program that does a total fractional graph coloring... something that is obviously NP hard, but I won't care if my algorithm is slow.
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
