@@ -1,4 +1,4 @@
-#+title: Week Two
+#+title: Week 002 -- Good Bread, Bad Samosas
 #+date: <2020-11-07 Sat>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu

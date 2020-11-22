@@ -1,4 +1,4 @@
-#+title: Week One
+#+title: Week 001 -- Clean Appartment, Chickpea Tacos
 #+date: <2020-11-07 Sat>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu

@@ -1,0 +1,59 @@
+#+title: Week 003 -- Cheesecake, Fractional Graph Coloring
+#+date: <2020-11-21 Sat>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+To everyone reading this post,
+
+Hello! Delighted to have you back for a third week!
+
+#+Caption: Roomate's Birthday Cheesecake
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/cake.png]]
+
+I started this week by surprising my roomate with a cheesecake for his birthday!
+
+Except... it wasn't a surprise. He knew, because I asked him a month in advance what kind of cake he would like on his birthday,
+and furthermore he noticed that when I went to "study at the library", somehow the kitchen
+spatchula went with me.
+
+Gustatory pleasures aside, this was my last week at the appartment before going home.
+So I hunkered down and read about fractional graph coloring, and was excited by what I found!
+
+#+Caption: Diffintegral Breaking Your Mind
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/frac.gif]]
+
+While I dont think that fractional graph coloring will solve the problem I'm having
+with ordering substates in [[https://github.com/jsalzbergedu/pegreg][pegreg]], I did very much enjoy it.
+
+Whereas regular graph coloring is the idea that, given a number of colors, or hours,
+or integers, you can divide them up so that in a graph no adjacent vertices have the same color (or have the same hour).
+
+The minimum number of hours (or colors) that one can assign is a property of the graph.
+
+This is obviously useful for scheduling. However, if one can subdivide the hours (or colors)
+and have vertices "take turns" doing both colors or both fractions of an hour, then one can get something even more general:
+fractional graph coloring.
+
+In trying to learn about fractional graph coloring, I came across a brain teaser
+about [[https://youtu.be/A4sTAKN6yFA][fractional derivatives]]. Similarly to fractional graph colorings, fractional
+derivatives are a generalization of something integral to something rational.
+They generalize the idea of the nth derivative: one can have
+not only a, for instance, 2nd derivative but also a 0.5th derivative.
+
+In a similar fasion, fractional graph coloring makes all of the rules harder, while
+allowing for more generality. [[https://www.sciencedirect.com/science/article/pii/S030439751400512X?via%3Dihub][This paper]] that I found shows that even when you do what would
+normally make approximating graph colorings easy -- using the same number of colors as vertices --
+in fractional graph coloring, it is still difficult to get a reasonable result quickly because the fractional portion of the schedule will grow very small.
+
+I'll have to tuck that away in my search for problems that do fix my pegreg problem. So, for now, no
+total fractional coloring implementation.
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
+

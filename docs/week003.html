@@ -6,7 +6,7 @@
 <!-- 2020-11-21 Sat 22:53 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Homepage of Jacob Salzberg</title>
+<title>Week 003 &#x2013; Cheesecake, Fractional Graph Coloring</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Jacob Salzberg" />
 <style type="text/css">
@@ -243,65 +243,98 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Homepage of Jacob Salzberg</h1>
-<div class="centered">NCSU Senior and Undergraduate Researcher</div>
-
+<h1 class="title">Week 003 &#x2013; Cheesecake, Fractional Graph Coloring</h1>
 <p>
-Hello everyone! My name is Jacob Salzberg. I am a CSC Senior at NCSU interested in
-Programming Languages, Type Theory, and Algorithm Complexity.
+To everyone reading this post,
 </p>
 
 <p>
-I am starting a blog here to talk about cooking, baking, programming, and student life.
+Hello! Delighted to have you back for a third week!
+</p>
+
+
+<div class="figure">
+<p><img src="./photos/cake.png" alt="cake.png" border="0" rules="centered" />
+</p>
+<p><span class="figure-number">Figure 1: </span>Roomate's Birthday Cheesecake</p>
+</div>
+
+<p>
+I started this week by surprising my roomate with a cheesecake for his birthday!
 </p>
 
 <p>
-Before you see my blog posts, you may want to view my three picture introduction:
+Except&#x2026; it wasn't a surprise. He knew, because I asked him a month in advance what kind of cake he would like on his birthday,
+and furthermore he noticed that when I went to "study at the library", somehow the kitchen
+spatchula went with me.
 </p>
 
-<table border="0" cellspacing="0" cellpadding="6" rules="none" frame="hsides">
+<p>
+Gustatory pleasures aside, this was my last week at the appartment before going home.
+So I hunkered down and read about fractional graph coloring, and was excited by what I found!
+</p>
 
 
-<colgroup>
-<col  class="org-left" />
+<div class="figure">
+<p><img src="./photos/frac.gif" alt="frac.gif" border="0" rules="centered" />
+</p>
+<p><span class="figure-number">Figure 2: </span>Diffintegral Breaking Your Mind</p>
+</div>
 
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left"><img src="./photos/meandfriends.jpg" alt="meandfriends.jpg" /></td>
-<td class="org-left">Me (center left) and some friends</td>
-</tr>
+<p>
+While I dont think that fractional graph coloring will solve the problem I'm having
+with ordering substates in <a href="https://github.com/jsalzbergedu/pegreg">pegreg</a>, I did very much enjoy it.
+</p>
 
-<tr>
-<td class="org-left"><img src="./photos/ncsu.png" alt="ncsu.png" /></td>
-<td class="org-left">The source of all my joy and suffering</td>
-</tr>
+<p>
+Whereas regular graph coloring is the idea that, given a number of colors, or hours,
+or integers, you can divide them up so that in a graph no adjacent vertices have the same color (or have the same hour).
+</p>
 
-<tr>
-<td class="org-left"><img src="./photos/doggo.jpg" alt="doggo.jpg" /></td>
-<td class="org-left">My Dog, Brownie</td>
-</tr>
-</tbody>
-</table>
+<p>
+The minimum number of hours (or colors) that one can assign is a property of the graph.
+</p>
 
-<ul class="org-ul">
-<li><a href="introduction.html">Introduction</a></li>
-<li><a href="week001.html">Week 001 &#x2013; Clean Appartment, Chickpea Tacos</a></li>
-<li><a href="week002.html">Week 002 &#x2013; Good Bread, Bad Samosas</a></li>
-<li><a href="week003.html">Week 003 &#x2013; Cheesecake, Fractional Graph Coloring</a></li>
-</ul>
+<p>
+This is obviously useful for scheduling. However, if one can subdivide the hours (or colors)
+and have vertices "take turns" doing both colors or both fractions of an hour, then one can get something even more general:
+fractional graph coloring.
+</p>
 
-<p class="centered">
-  <a href="https://www.github.com/jsalzbergedu">Github</a>
-  |
-  <a href="mailto:jssalzbe@ncsu.edu">Email</a>
-  |
-  <a href="tel:1-910-583-0058">(910) 583 0058</a>
+<p>
+In trying to learn about fractional graph coloring, I came across a brain teaser
+about <a href="https://youtu.be/A4sTAKN6yFA">fractional derivatives</a>. Similarly to fractional graph colorings, fractional
+derivatives are a generalization of something integral to something rational.
+They generalize the idea of the nth derivative: one can have
+not only a, for instance, 2nd derivative but also a 0.5th derivative.
+</p>
+
+<p>
+In a similar fasion, fractional graph coloring makes all of the rules harder, while
+allowing for more generality. <a href="https://www.sciencedirect.com/science/article/pii/S030439751400512X?via%3Dihub">This paper</a> that I found shows that even when you do what would
+normally make approximating graph colorings easy &#x2013; using the same number of colors as vertices &#x2013;
+in fractional graph coloring, it is still difficult to get a reasonable result quickly because the fractional portion of the schedule will grow very small.
+</p>
+
+<p>
+I'll have to tuck that away in my search for problems that do fix my pegreg problem. So, for now, no
+total fractional coloring implementation.
+</p>
+
+<p>
+Best,
+</p>
+
+<p>
+Jacob Salzberg, BS CSC 2021
+</p>
+
+<p>
+<a href="index.html">Home</a>
 </p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Date: 2020-10-31 Sat 00:00</p>
+<p class="date">Date: 2020-11-21 Sat 00:00</p>
 <p class="author">Author: Jacob Salzberg</p>
 <p class="date">Created: 2020-11-21 Sat 22:53</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
