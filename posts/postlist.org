@@ -5,3 +5,4 @@
 - [[file:week001.org][Week 001 -- Clean Appartment, Chickpea Tacos]]
 - [[file:week002.org][Week 002 -- Good Bread, Bad Samosas]]
 - [[file:week003.org][Week 003 -- Cheesecake, Fractional Graph Coloring]]
+- [[file:week004.org][Week 004 -- Panpsychism]]
