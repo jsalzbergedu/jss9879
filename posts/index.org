@@ -25,7 +25,7 @@ Before you see my blog posts, you may want to view my three picture introduction
 
 #+BEGIN_EXPORT html
       <p class="centered">
-        <a href="https://www.github.com/jsalzbergedu/photos/resume.pdf">Resume</a>
+        <a href="https://www.github.com/jsalzbergedu/photos/Resume-12-2020.pdf">Resume</a>
         |
         <a href="https://www.github.com/jsalzbergedu">Github</a>
         |
