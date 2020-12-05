@@ -20,6 +20,7 @@ Before you see my blog posts, you may want to view my three picture introduction
 | [[./photos/ncsu.png]]         | The source of all my joy and suffering |
 | [[./photos/doggo.jpg]]        | My Dog, Brownie                        |
 
+- [[file:projects.org][Selected Projects]]
 #+INCLUDE: postlist.org :lines "4-" :only-contents t
 
 #+BEGIN_EXPORT html

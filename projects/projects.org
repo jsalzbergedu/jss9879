@@ -1,0 +1,54 @@
+#+title: Selected Projects
+#+date: <2020-01-04 Fri>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+To whomever has landed on this page,
+
+Hello! You've found my showcase of projects. Here I've picked three of the projects that I've done,
+and written a little bit about them.
+
+While they aren't huge projects, I think they each tell a story of how programs can be constructed in a principled yet creative way.
+
+1. [[file:tetris/index.html][An NES tetris clone that I made for my Computer Graphics class.]]
+
+#+Caption: NES Tetris Clone
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/tetrisshowcase.png]]
+
+   It's still a little buggy at times, and there is no indication of score --
+   but I have included it because it shows both what can be done with the barebones
+   of GLSL and WebGL.
+
+2. [[https://github.com/jsalzbergedu/pegreg][PEGREG]]
+
+#+Caption: Rosie The Riveter, Rosie's Mascot
+#+ATTR_HTML: :border 0 :rules centered
+   [[./photos/riveter.jpg]]
+
+   /PEGREG/ is a compiler for regular expressions, intended to compile a subset of
+   /Parsing Expression Grammars (PEGs)/ to regular expressions.
+
+   When complete, it will form a part of /Rosie/, a language intended as a regular expression replacement.
+
+   In its current state, PEGREG is a good example of unit tests, continuous integration, and modularity.
+
+3. [[https://gitlab.com/rosie-pattern-language/rosie/-/tree/lint1][Rosie Lint Library]] 
+
+#+Caption: Rosie Lint Discovering Unmatchable Expressions
+#+ATTR_HTML: :border 0 :rules centered
+   [[./photos/rosie_lint.svg]]
+
+   The Rosie Lint Library allows programmers to write thier own scripts to lint Rosie code, and contains a script
+   that uses Dijkstra's strongly connected component algorithm to find patterns that will never match input text.
+
+   Its documentation can be found [[https://gitlab.com/rosie-pattern-language/rosie/-/blob/lint1/doc/rosie_lint.pdf][here]].
+
+   While the Rosie Lint library will probably have to be rewritten come the rewrite of Rosie, it currently showcases
+   exhaustive documentation, modularity, and applications of graph algorithms to static analysis.
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]

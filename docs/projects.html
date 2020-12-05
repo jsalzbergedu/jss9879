@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-12-05 Sat 15:52 -->
+<!-- 2020-12-05 Sat 15:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Week 004 &#x2013; Panpsychism</title>
+<title>Selected Projects</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Jacob Salzberg" />
 <style type="text/css">
@@ -243,58 +243,85 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Week 004 &#x2013; Panpsychism</h1>
+<h1 class="title">Selected Projects</h1>
 <p>
-To all who are reading this post,
+To whomever has landed on this page,
 </p>
 
 <p>
-Hello! It's great to have you back. Today I'm going to be posting a philosophical idea about conciousness that I find interesting. I'm going to skip posting food for a week, I assume that
-after Thanksgiving feasts most are disgusted by the mere thought of food.
+Hello! You've found my showcase of projects. Here I've picked three of the projects that I've done,
+and written a little bit about them.
 </p>
+
+<p>
+While they aren't huge projects, I think they each tell a story of how programs can be constructed in a principled yet creative way.
+</p>
+
+<ol class="org-ol">
+<li><a href="tetris/index.html">An NES tetris clone that I made for my Computer Graphics class.</a></li>
+</ol>
 
 
 <div class="figure">
-<p><img src="./photos/milk.jpg" alt="milk.jpg" border="0" rules="centered" />
+<p><img src="./photos/tetrisshowcase.png" alt="tetrisshowcase.png" border="0" rules="centered" />
 </p>
-<p><span class="figure-number">Figure 1: </span>Milky Way (Credit: NASA)</p>
+<p><span class="figure-number">Figure 1: </span>NES Tetris Clone</p>
 </div>
 
 <p>
-I've been thinking a lot recently about ideas that have challanged assumptions I didn't even know I had.
-These ideas aren't neccesarily controversial, but I just never really thought about them until I encountered them online. For instance, have you ever heard of panpsychism?
+It's still a little buggy at times, and there is no indication of score &#x2013;
+but I have included it because it shows both what can be done with the barebones
+of GLSL and WebGL.
 </p>
 
-<p>
-The Stanford Encyclopedia on panpsychism contains <a href="https://plato.stanford.edu/entries/panpsychism/">some of my favorite philosophical arguments</a> (as a lay consumer of philosophical thought), including the following:
-since there has yet to be any scientific theory explaining "hard problem of conciousness", or how concious experience arises from matter.
-Concious experience not being a <span class="underline">description</span> of concious experience but the experiences in themselves; maybe a neurologist can test a person's brain
-to see if they are "tasting a sweet sensation" but they can't yet describe what actually makes up that immaterial sweet sensation itself that the person percieves.
-Where, specifically, does this councious experience come from?
-</p>
-
-<p>
-So since there is not yet a theory, why naively assume that there is going to be one, when all things might very well have conciousness?
-In that case, one does not even have to provide a material account of how conciousness arises, since conciousness that we experience would
-just be a whole bunch of counciousnesses, merged.
-</p>
+<ol class="org-ol">
+<li><a href="https://github.com/jsalzbergedu/pegreg">PEGREG</a></li>
+</ol>
 
 
 <div class="figure">
-<p><img src="./photos/swans.jpg" alt="swans.jpg" border="0" rules="centered" />
+<p><img src="./photos/riveter.jpg" alt="riveter.jpg" border="0" rules="centered" />
 </p>
-<p><span class="figure-number">Figure 2: </span>All Swans Are Black Swans (Credit: Wikipedia)</p>
+<p><span class="figure-number">Figure 2: </span>Rosie The Riveter, Rosie's Mascot</p>
 </div>
 
 <p>
-Of course, this "panpsychism" idea is not really a scientific idea &#x2013; it's not falsifiable.
-Falsifiable ideas are ideas that can be tested against evidence; the idea that "concious experience exists in all matter" cannot be tested,
-but the idea that, for instance "all swans are black" can be tested and disproven by finding a white swan. So panpsychism remains an interesting <span class="underline">idea</span>
-and not a forseeable scientific theory.
+<i>PEGREG</i> is a compiler for regular expressions, intended to compile a subset of
+<i>Parsing Expression Grammars (PEGs)</i> to regular expressions.
 </p>
 
 <p>
-Hope you found the idea of panpsychism as interesting as I do!
+When complete, it will form a part of <i>Rosie</i>, a language intended as a regular expression replacement.
+</p>
+
+<p>
+In its current state, PEGREG is a good example of unit tests, continuous integration, and modularity.
+</p>
+
+<ol class="org-ol">
+<li><a href="https://gitlab.com/rosie-pattern-language/rosie/-/tree/lint1">Rosie Lint Library</a></li>
+</ol>
+
+
+<div class="figure">
+<p><object type="image/svg+xml" data="./photos/rosie_lint.svg" class="org-svg" border="0" rules="centered">
+Sorry, your browser does not support SVG.</object>
+</p>
+<p><span class="figure-number">Figure 3: </span>Rosie Lint Discovering Unmatchable Expressions</p>
+</div>
+
+<p>
+The Rosie Lint Library allows programmers to write thier own scripts to lint Rosie code, and contains a script
+that uses Dijkstra's strongly connected component algorithm to find patterns that will never match input text.
+</p>
+
+<p>
+Its documentation can be found <a href="https://gitlab.com/rosie-pattern-language/rosie/-/blob/lint1/doc/rosie_lint.pdf">here</a>.
+</p>
+
+<p>
+While the Rosie Lint library will probably have to be rewritten come the rewrite of Rosie, it currently showcases
+exhaustive documentation, modularity, and applications of graph algorithms to static analysis.
 </p>
 
 <p>
@@ -310,9 +337,9 @@ Jacob Salzberg, BS CSC 2021
 </p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Date: 2020-11-21 Sat 00:00</p>
+<p class="date">Date: 2020-01-04 Sat 00:00</p>
 <p class="author">Author: Jacob Salzberg</p>
-<p class="date">Created: 2020-12-05 Sat 15:52</p>
+<p class="date">Created: 2020-12-05 Sat 15:59</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

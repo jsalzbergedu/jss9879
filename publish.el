@@ -35,8 +35,17 @@
          :sitemap-title "Blog Index"
          :sitemap-filename "postlist.org"
          :sitemap-style list
-         :author "John Doe"
-         :email "john.doe@example.com"
+         :author "Jacob Salzberg"
+         :email "jssalzbe@ncsu.edu"
+         :with-creator t)
+        ("projects"
+         :base-directory "projects/"
+         :base-extension "org"
+         :publishing-directory "docs/"
+         :recursive t
+         :publishing-function org-html-publish-to-html
+         :author "Jacob Salzberg"
+         :email "jssalzbe@ncsu.edu"
          :with-creator t)
         ("css"
          :base-directory "css/"
@@ -46,8 +55,14 @@
          :recursive t)
         ("photos"
          :base-directory "photos/"
-         :base-extension "png\\|jpg\\|gif"
+         :base-extension "png\\|jpg\\|gif\\|svg"
          :publishing-directory "docs/photos"
          :publishing-function org-publish-attachment
          :recursive t)
-         ("all" :components ("posts" "css" "photos"))))
+        ("tetris"
+         :base-directory "tetris/"
+         :base-extension "json\\|js\\|gif\\|png\\|html\\|css\\|svg\\|gitignore"
+         :publishing-directory "docs/tetris"
+         :publishing-function org-publish-attachment
+         :recursive t)
+         ("all" :components ("posts" "projects" "css" "photos" "tetris"))))
