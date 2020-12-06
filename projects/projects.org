@@ -10,7 +10,7 @@ and written a little bit about them.
 
 While they aren't huge projects, I think they each tell a story of how programs can be constructed in a principled yet creative way.
 
-1. [[file:tetris/index.html][An NES tetris clone that I made for my Computer Graphics class.]]
+- [[file:tetris/index.html][An NES tetris clone that I made for my Computer Graphics class.]]
 
 #+Caption: NES Tetris Clone
 #+ATTR_HTML: :border 0 :rules centered
@@ -20,7 +20,7 @@ While they aren't huge projects, I think they each tell a story of how programs 
    but I have included it because it shows both what can be done with the barebones
    of GLSL and WebGL.
 
-2. [[https://github.com/jsalzbergedu/pegreg][PEGREG]]
+- [[https://github.com/jsalzbergedu/pegreg][PEGREG]]
 
 #+Caption: Rosie The Riveter, Rosie's Mascot
 #+ATTR_HTML: :border 0 :rules centered
@@ -33,7 +33,7 @@ While they aren't huge projects, I think they each tell a story of how programs 
 
    In its current state, PEGREG is a good example of unit tests, continuous integration, and modularity.
 
-3. [[https://gitlab.com/rosie-pattern-language/rosie/-/tree/lint1][Rosie Lint Library]] 
+- [[https://gitlab.com/rosie-pattern-language/rosie/-/tree/lint1][Rosie Lint Library]] 
 
 #+Caption: Rosie Lint Discovering Unmatchable Expressions
 #+ATTR_HTML: :border 0 :rules centered
