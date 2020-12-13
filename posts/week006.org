@@ -1,4 +1,4 @@
-#+title: Week 007 -- Dog Surgery, Gluten
+#+title: Week 006 -- Dog Surgery, Gluten
 #+date: <2020-12-12 Sat>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu
