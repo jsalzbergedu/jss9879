@@ -27,14 +27,14 @@ Gluten is a really cool substance that is probably always available to any home 
 Gluten is already present in any dough; it is the protiens that allow you to knead and stretch the dough until it is elastic.
 You can extract gluten from normal wheat dough (just flour + water) by kneading it under cold water.
 
-#+Caption: Ball O' Gluten
+#+Caption: Simmered Gluten
 #+ATTR_HTML: :border 0 :rules centered
 [[./photos/glutensimmered.jpg]]
 
 This is a picture of gluten that had simmered for an hour in brine. It came out amazing! I loved the taste of it, it was almost somewhere between
 the taste of chicken and the taste of a soup dumpling.
 
-#+Caption: Ball O' Gluten
+#+Caption: Spiced Up Gluten
 #+ATTR_HTML: :border 0 :rules centered
 [[./photos/glutenlog.jpg]]
 

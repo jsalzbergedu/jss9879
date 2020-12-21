@@ -8,3 +8,4 @@
 - [[file:week004.org][Week 004 -- Panpsychism]]
 - [[file:week005.org][Week 005 -- Pickled Onions, Pickled Brain]]
 - [[file:week006.org][Week 006 -- Dog Surgery, Gluten]]
+- [[file:week007.org][Week 007 -- Spoiled Onions, Tangzhong]]

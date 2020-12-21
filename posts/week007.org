@@ -1,0 +1,49 @@
+#+title: Week 007 -- Spoiled Onions, Tangzhong
+#+date: <2020-12-20 Sun>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+Hello everyone, and welcome to my blog!
+
+
+#+Caption: Tangzhong Milk Bread Ball
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/tangzhong.jpg]]
+
+In preperation for the winter holidays, I am making Tangzhong Milk Bread!
+
+Tangzhong Milk Bread is bread that is different from brioche in two ways. 
+
+Firstly, while brioche uses eggs and milk to hydrate the bread, tangzhong uses eggs, milk, _and_ a water roux. 
+A water roux is when you cook a large amount of water into a small amount of flour until it becomes thick,
+[[https://en.wikipedia.org/wiki/Starch_gelatinization][causing the starches in the flour to break down]]. In my observations, this did not cause much of the water to evaporate off
+(my scale weighed the tangzhong mixture at around 125g both before and after the process), but it did cause the flour to
+loose its earthy taste and become sweet.
+
+Secondly, while brioche contains milk, this bread contains both milk _and_ milk powder. I have no idea why, perhaps to make it milkier?
+
+This was the video I followed: [[https://www.youtube.com/watch?v=ZBsBPJqmR80][Brioche Tangzhong]]. I chose it because it contained a lot of butter, my favorite food group.
+
+If this tangzhong turns out well, I will consider making tangzhong doughnuts and tangzhong-based tortillas.
+
+
+In other news, my pickles may be done:
+
+#+Caption: Weird Onions
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/spoiled.jpg]]
+
+[[file:week005.org][These pickles began their journey two weeks ago in an attempt to perserve some old red onions.]] 
+I am not sure if they really achieved the right flavor;
+these onions are just oniony enough to be too much like onion and 
+just lacking in acidity enough to taste spoiled. I still have the other jar,
+and I'll let it go for a few more days to see if it will make better pickles.
+
+Alack the day. Hopefully my tangzhong experiment will go better.
+
+Happy holidays everyone,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
