@@ -9,3 +9,4 @@
 - [[file:week005.org][Week 005 -- Pickled Onions, Pickled Brain]]
 - [[file:week006.org][Week 006 -- Dog Surgery, Gluten]]
 - [[file:week007.org][Week 007 -- Spoiled Onions, Tangzhong]]
+- [[file:week008.org][Week 008 -- More Bread]]

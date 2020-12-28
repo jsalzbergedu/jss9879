@@ -1,0 +1,73 @@
+#+title: Week 008 -- More Bread
+#+date: <2020-27-20 Sun>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+Hello everyone and thank you for returning to my food & student life blog!
+
+#+Caption: Pain Au Chocolat (Far) and "Braided" brioche (Near)
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/painauchocetbrioche.jpg]]
+
+Today I attempted to make « Pain Au Chocolat » and brioche.
+
+My idea was to cook them all in the same bread pan, so that they could be pull-apart like
+monkey bread and chocolatey in the center like pain au chocolat. And...
+
+#+Caption: Halved Pain Au Chocolat Pull Apart roll
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/paintriste.jpg]]
+
+I failed miserably, getting this horrible monstrosity that is not quite a roll and 
+_definitley_ not pain au chocolat. Though I dutifully rolled chocolate into dough:
+
+#+Caption: Chocolate Rolling Method
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/attemptedroll.jpg]]
+
+I very clearly used far too little chocolate. Oh well, at least my
+bread lived fast, died young and left a beautiful corpse: 
+
+#+Caption: Glamourous Bread
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/livefast.jpg]]
+
+For what its worth, I did learn some valuable lessons making this bread.
+
+First of all, I went off-script and modified my [[https://www.delish.com/cooking/recipe-ideas/a28848483/brioche-bread-recipe/][favorite brioche recipe]] to use 
+tangzhong (a water roux). To make my sponge, I whisked 25 grams of flour
+vigorously with 125 grams of milk over low flame until it came into a thick slurry.
+
+I bloomed 1 packet of active-dry yeast in 60 grams of tepid (100F) milk, and mixed in
+128 grams of flour plus 75 more grams of flour to achieve the correct percent hydration.
+
+(I calculated the percent hydration with the following formula: 
+liquid mass/solid mass = pct hydration/100. I only considered the additional
+60 grams of milk, and targeted 80 percent hydration, yeilding the equation
+60 / x = .8 , where x is the target solid mass. Even after calculating x to be
+75, my dough was not perfect, and I had to add a few pours of milk to the final product
+to get the right stickyness).
+
+After making my sponge, I followed a path closer to June Xie's dough, making a few
+other adjustments: I used the stand mixer's _beater attachment_ to beat the eggs
+into the sponge, and then to beat the rest of the ingredients in,
+making mixing all the ingredients take significantly less time than 
+it does with a dough hook. From that point on, I followed the directions of the recipe.
+
+#+Caption: Lil Floofballs
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/floofy.jpg]]
+
+Although I'm dissapointed that my chocolate bread didn't work out, I must admit that
+this bread's ability to photograph well impresses me. Next time I make stuffed
+brioche, I will use far more stuffing. My eyes are on [[https://www.manjulaskitchen.com/paneer-stuffed-bun/][this paneer stuffed bun recipe]] and
+[[https://www.tasteofhome.com/recipes/cheese-filled-garlic-rolls/][cheese stuffed bread rolls]].
+
+More on that to come.
+
+Thank you for suffering through another week of my cooking, and happy holidays!!
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
