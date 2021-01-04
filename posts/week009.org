@@ -1,0 +1,36 @@
+#+title: Week 009 -- Quiche Lorraine, <3 Friends
+#+date: <2020-27-20 Sun>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+Hello hello! Welcome again to my blog!
+
+#+Caption: Quiche (Blanched Spinach, Shallots and Gruyere)
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/quiche.jpg]]
+
+I was craving some quiche, so I kind of freestyled one [[https://www.onceuponachef.com/recipes/spinach-quiche.html][based on this recipe]]. Unlike the
+recipe however, I used 0.75 cups of heavy cream and added thyme, basil and oregeano.
+I also blanched the spinach rather than just wringing it dry.
+
+I baked it for an hour, and it turned out fantastic! A lot like the quiche you can
+get from starbucks. I'll definitley be making it again.
+
+#+Caption: My Friends Posing
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/posing.jpg]]
+
+Outside of quiche, I finally got to see my friends again for a little going-away
+gathering! My friend Lagni will be moving to seattle soon to start her job at Microsoft.
+It's sad to see her go, but I'm glad we got to be friends :D
+
+#+Caption: One Last Game of Bocchi Ball (Lagni on the far right)
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/bocchi.jpg]]
+
+I'll miss you Lagni D: '\0' forever.
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]

@@ -10,3 +10,4 @@
 - [[file:week006.org][Week 006 -- Dog Surgery, Gluten]]
 - [[file:week007.org][Week 007 -- Spoiled Onions, Tangzhong]]
 - [[file:week008.org][Week 008 -- More Bread]]
+- [[file:week009.org][Week 009 -- Quiche Lorraine, <3 Friends]]
