@@ -1,5 +1,5 @@
 #+title: Week 008 -- More Bread
-#+date: <2020-27-20 Sun>
+#+date: <2020-12-27 Sun>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu
 #+SETUPFILE: ../org-template/style.org
