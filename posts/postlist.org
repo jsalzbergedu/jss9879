@@ -12,3 +12,4 @@
 - [[file:week008.org][Week 008 -- More Bread]]
 - [[file:week009.org][Week 009 -- Quiche Florentine, <3 Friends]]
 - [[file:week010.org][Week 10 -- Softer Samosas]]
+- [[file:week011.org][Week 11 -- Struggle Meal]]
