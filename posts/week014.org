@@ -1,4 +1,4 @@
-#+title: Week 14 -- 
+#+title: Week 14 -- Sweet potato pancakes
 #+date: <2021-2-8 Mon>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu
