@@ -14,3 +14,5 @@
 - [[file:week010.org][Week 10 -- Softer Samosas]]
 - [[file:week011.org][Week 11 -- Struggle Meal]]
 - [[file:week012.org][Week 12 -- Lentil Soup, Doughnuts]]
+- [[file:week013.org][Week 13 -- Ghee]]
+- [[file:week014.org][Week 14 -- Sweet potato pancakes]]
