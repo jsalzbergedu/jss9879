@@ -1,0 +1,31 @@
+#+title: Week 14 -- 
+#+date: <2021-2-8 Mon>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+Hello everyone and welcome back to my blog!
+
+#+Caption: Sweet Potatoes
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/amazing_potaoes.jpg]]
+
+Sweet potatoes seem cheap in good around this time of year... I think they were
+just in season. I decided to try to make some sweet potato pancakes, so I baked up a batch
+of sweet potatoes, peeled them, whisked in an egg and some flour, and started frying --
+only to find that they barely came together. So I added more and more flour, the mixture
+still not coming together until I ended up with
+
+#+Caption: Sweet Potato Pancakes
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/aweful_pancakes.jpg]]
+
+Veritable gloop.
+
+Thats all I have for today, hope I have something good to say next week!
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
