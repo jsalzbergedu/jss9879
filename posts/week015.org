@@ -1,0 +1,51 @@
+#+title: Week 15 -- Egg Coffee, Palak Paneer
+#+date: <2021-2-15 Mon>
+#+author: Jacob Salzberg
+#+email: jssalzbe@ncsu.edu
+#+SETUPFILE: ../org-template/style.org
+
+Hello everyone and welcome back to my blog!
+
+This weekend I took a trip on the wild side when I saw that you can make paneer in about 12 minutes
+(~5mins to pressurize, 2 under high pressure, 5 stirring, draining, wrapping and pressing) with an instant pot.
+
+Results were glorious:
+
+#+Caption: Curds
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/paneer.jpg]]
+
+The only ingredients were a carton of milk and a few squirts of lime juice. Stirred for a bit,
+saw giant curds come out, strained them, wrapped them, and left them resting under a weight for
+two hours. The next day I made palak paneer, and measuring out the ingredients honestly
+took longer than making the cheese itself.
+
+#+Caption: Palak Paneer
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/palak_paneer.jpg]]
+
+No regrets though, it was good.
+
+Secondly, this weekend I tried egg coffee! I took 2000 ml of water, 300 g of coffee
+and added eggs to the coffee grounds until they were a thick slurry.
+
+#+Caption: Coffee Egg Slurry
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/eggcoffee.jpg]]
+
+I cooked the egg slurry in the water at a simmer for five minutes, 
+
+#+Caption: Coffee Egg Slurry
+#+ATTR_HTML: :border 0 :rules centered
+[[./photos/eggcoffeecooked.jpg]]
+
+And with a few ice cubes after that, the giant lumps of coffee-egg fell out and left some pretty
+good tasting coffee. Would recommend for cooking in batch.
+
+Whew! For a really busy week that was a lot of cooking. Owe it all to the quick paneer recipe.
+
+Best,
+
+Jacob Salzberg, BS CSC 2021
+
+[[file:index.org][Home]]
