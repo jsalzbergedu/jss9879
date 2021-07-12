@@ -5,7 +5,6 @@
 - [[file:week001.org][Week 001 -- Clean Appartment, Chickpea Tacos]]
 - [[file:week002.org][Week 002 -- Good Bread, Bad Samosas]]
 - [[file:week003.org][Week 003 -- Cheesecake, Fractional Graph Coloring]]
-- [[file:week004.org][Week 004 -- Panpsychism]]
 - [[file:week005.org][Week 005 -- Pickled Onions, Pickled Brain]]
 - [[file:week006.org][Week 006 -- Dog Surgery, Gluten]]
 - [[file:week007.org][Week 007 -- Spoiled Onions, Tangzhong]]
@@ -17,4 +16,5 @@
 - [[file:week013.org][Week 13 -- Ghee]]
 - [[file:week014.org][Week 14 -- Sweet potato pancakes]]
 - [[file:week015.org][Week 15 -- Egg Coffee, Palak Paneer]]
+- [[file:week017.org][Week 16 -- Graduation, Blog Rebirth]]
 - [[file:week016.org][Week 16 -- Whey Lentils]]
