@@ -1,35 +1,24 @@
-#+title: Homepage of Jacob Salzberg
+#+title: Jacob Salzberg
 #+date: <2020-10-31 Sat>
 #+author: Jacob Salzberg
 #+email: jssalzbe@ncsu.edu
 #+SETUPFILE: ../org-template/style.org
 #+BEGIN_EXPORT html
-<div class="centered">NCSU Senior and Undergraduate Researcher</div>
+<div class="centered">NYU First Year PhD Student in Computer Science</div>
 #+END_EXPORT
 
-Hello everyone! My name is Jacob Salzberg. I am a CSC Senior at NCSU interested in
-Programming Languages, Type Theory, and Algorithm Complexity.
+Hello everyone! My name is Jacob Salzberg.
+I am a CS First Year PhD Student at New York University interested in
+Programming Languages and Abstract Interpretation.
 
-I am starting a blog here to talk about cooking, baking, programming, and student life.
-
-Before you see my blog posts, you may want to view my three picture introduction:
-
-#+ATTR_HTML: :border 0 :rules none
-|---------------------------+----------------------------------------|
-| [[./photos/meandfriends.jpg]] | Me (center left) and some friends      |
-| [[./photos/ncsu.png]]         | The source of all my joy and suffering |
-| [[./photos/doggo.jpg]]        | My Dog, Brownie                        |
-
-- [[file:projects.org][Selected Projects]]
-#+INCLUDE: postlist.org :lines "4-" :only-contents t
+#+ATTR_HTML: :height 500px :width auto
+[[file:~/Programming/jss9879/photos/stategrad.jpeg][file:~/Programming/jss9879/photos/stategrad.jpeg]]
 
 #+BEGIN_EXPORT html
       <p class="centered">
-        <a href="https://jsalzbergedu.github.io/photos/resume.pdf">Resume</a>
-        |
         <a href="https://www.github.com/jsalzbergedu">Github</a>
         |
-        <a href="mailto:jssalzbe@ncsu.edu">Email</a>
+        <a href="mailto:jss9879@ncsu.edu">Email</a>
         |
         <a href="tel:1-910-583-0058">(910) 583 0058</a>
       </p>

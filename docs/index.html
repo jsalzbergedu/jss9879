@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-07-12 Mon 15:35 -->
+<!-- 2021-09-09 Thu 13:26 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Homepage of Jacob Salzberg</title>
+<title>Jacob Salzberg</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Jacob Salzberg" />
 <style type="text/css">
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -195,123 +195,49 @@
 </style>
 <link rel="stylesheet" type="text/css" href="css/site.css" />
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Homepage of Jacob Salzberg</h1>
-<div class="centered">NCSU Senior and Undergraduate Researcher</div>
+<h1 class="title">Jacob Salzberg</h1>
+<div class="centered">NYU First Year PhD Student in Computer Science</div>
 
 <p>
-Hello everyone! My name is Jacob Salzberg. I am a CSC Senior at NCSU interested in
-Programming Languages, Type Theory, and Algorithm Complexity.
+Hello everyone! My name is Jacob Salzberg.
+I am a CS First Year PhD Student at New York University interested in
+Programming Languages and Abstract Interpretation.
 </p>
 
-<p>
-I am starting a blog here to talk about cooking, baking, programming, and student life.
+
+<div id="org45a14be" class="figure">
+<p><a href="file:///home/jacob/Programming/jss9879/photos/stategrad.jpeg" height="500px" width="auto"><img src="file:///home/jacob/Programming/jss9879/photos/stategrad.jpeg" alt="stategrad.jpeg" height="500px" width="auto" /></a>
 </p>
-
-<p>
-Before you see my blog posts, you may want to view my three picture introduction:
-</p>
-
-<table border="0" cellspacing="0" cellpadding="6" rules="none" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left"><img src="./photos/meandfriends.jpg" alt="meandfriends.jpg" /></td>
-<td class="org-left">Me (center left) and some friends</td>
-</tr>
-
-<tr>
-<td class="org-left"><img src="./photos/ncsu.png" alt="ncsu.png" /></td>
-<td class="org-left">The source of all my joy and suffering</td>
-</tr>
-
-<tr>
-<td class="org-left"><img src="./photos/doggo.jpg" alt="doggo.jpg" /></td>
-<td class="org-left">My Dog, Brownie</td>
-</tr>
-</tbody>
-</table>
-
-<ul class="org-ul">
-<li><a href="projects.html">Selected Projects</a></li>
-<li><a href="introduction.html">Introduction</a></li>
-<li><a href="week001.html">Week 001 &#x2013; Clean Appartment, Chickpea Tacos</a></li>
-<li><a href="week002.html">Week 002 &#x2013; Good Bread, Bad Samosas</a></li>
-<li><a href="week003.html">Week 003 &#x2013; Cheesecake, Fractional Graph Coloring</a></li>
-<li><a href="week005.html">Week 005 &#x2013; Pickled Onions, Pickled Brain</a></li>
-<li><a href="week006.html">Week 006 &#x2013; Dog Surgery, Gluten</a></li>
-<li><a href="week007.html">Week 007 &#x2013; Spoiled Onions, Tangzhong</a></li>
-<li><a href="week008.html">Week 008 &#x2013; More Bread</a></li>
-<li><a href="week009.html">Week 009 &#x2013; Quiche Florentine, &lt;3 Friends</a></li>
-<li><a href="week010.html">Week 10 &#x2013; Softer Samosas</a></li>
-<li><a href="week011.html">Week 11 &#x2013; Struggle Meal</a></li>
-<li><a href="week012.html">Week 12 &#x2013; Lentil Soup, Doughnuts</a></li>
-<li><a href="week013.html">Week 13 &#x2013; Ghee</a></li>
-<li><a href="week014.html">Week 14 &#x2013; Sweet potato pancakes</a></li>
-<li><a href="week015.html">Week 15 &#x2013; Egg Coffee, Palak Paneer</a></li>
-<li><a href="week017.html">Week 16 &#x2013; Graduation, Blog Rebirth</a></li>
-<li><a href="week016.html">Week 16 &#x2013; Whey Lentils</a></li>
-</ul>
+</div>
 
 <p class="centered">
-  <a href="https://jsalzbergedu.github.io/photos/resume.pdf">Resume</a>
-  |
   <a href="https://www.github.com/jsalzbergedu">Github</a>
   |
-  <a href="mailto:jssalzbe@ncsu.edu">Email</a>
+  <a href="mailto:jss9879@ncsu.edu">Email</a>
   |
   <a href="tel:1-910-583-0058">(910) 583 0058</a>
 </p>
@@ -319,9 +245,9 @@ Before you see my blog posts, you may want to view my three picture introduction
 <div id="postamble" class="status">
 <p class="date">Date: 2020-10-31 Sat 00:00</p>
 <p class="author">Author: Jacob Salzberg</p>
-<p class="date">Created: 2021-07-12 Mon 15:35</p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-09-09 Thu 13:26</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
